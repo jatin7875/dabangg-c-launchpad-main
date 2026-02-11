@@ -5,7 +5,7 @@ const details = [
   { icon: Calendar, label: "Date", value: "22 February 2026" },
   { icon: Clock, label: "Duration", value: "2-3 Hours" },
   { icon: MapPin, label: "Venue", value: "Em.Tech Dept, SBJITMR Nagpur" },
-  { icon: Award, label: "Prizes", value: "Exciting Rewards" },
+  { icon: Award, label: "Prizes", value: "Upto 7500/-" },
 ];
 
 const rules = [
