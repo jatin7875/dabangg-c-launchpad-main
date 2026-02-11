@@ -23,9 +23,10 @@ const RegisterSection = () => {
             Register now and prove you're the Dabangg of C programming!
           </p>
           <motion.a
-            href="https://forms.gle/DUpPWHLwjZoCZ1eC8"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdROcbBTcNaYfXtOyOZMqDRO09eyDVEZLXrQzbSHraFNPPt8Q/viewform?usp=dialog"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
+            target="_blank"
             className="inline-block px-12 py-4 bg-gradient-to-r from-secondary to-primary text-primary-foreground font-display font-bold text-lg tracking-widest rounded-sm uppercase hover:shadow-[0_0_40px_hsl(15,90%,55%,0.5)] transition-shadow duration-300 animate-[pulse-glow_2s_ease-in-out_infinite]"
           >
             Register Now
